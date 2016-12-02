@@ -1,2 +1,2 @@
-# Hi, I'm Ethan
-Hello World :)
+# Hello World :)
+I'm Ethan
